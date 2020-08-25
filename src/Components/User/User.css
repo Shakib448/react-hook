@@ -1,0 +1,24 @@
+.details{
+    margin: 10px 50px;
+}
+
+.details-container{
+    border: 1px solid red;
+    padding: 50px;
+}
+
+.details-container img{
+    height: 150px;
+    width: 150px;
+    border-radius: 25px;
+}
+
+.add-me{
+    color: black;
+    border: 1px solid black;
+    padding: 20px 30px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: transparent;
+    cursor: pointer;
+}
